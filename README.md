@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @famboyyyyyy
+- 👋 Hi, I’m @FxmBxy
 - 👀 I’m interested in ...ethical hacking
 - 🌱 I’m currently learning ...cloud computing
 - 💞️ I’m looking to collaborate on ...anyone who is up for OJT
